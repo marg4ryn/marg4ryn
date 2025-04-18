@@ -18,7 +18,7 @@
 ![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-### 🧰 Tools and more
+### 🧰 Tools & More
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
