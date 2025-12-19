@@ -1,7 +1,7 @@
 # 🧑‍💻 Janek
 
 - Studying Applied Computer Science at WUST 🎓
-- Frontend Developer with specialization in React 💻
+- Frontend Developer with specialization in Vue 💻
 - Ready for challenges 🚀
 
 ### 🛠️ Skills
