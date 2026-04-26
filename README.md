@@ -20,6 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-f69118?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ff703e?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-11cf85?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-e94d32?style=for-the-badge&logo=git&logoColor=white)
