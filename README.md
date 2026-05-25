@@ -20,6 +20,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-f69118?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-253139?style=for-the-badge&logo=prettier&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-e94d32?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-ff703e?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-11cf85?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-e94d32?style=for-the-badge&logo=git&logoColor=white)
